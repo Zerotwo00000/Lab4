@@ -33,14 +33,14 @@
       <widget class="QPushButton" name="btDepartment">
        <property name="minimumSize">
         <size>
-         <width>51</width>
-         <height>51</height>
+         <width>61</width>
+         <height>61</height>
         </size>
        </property>
        <property name="maximumSize">
         <size>
-         <width>51</width>
-         <height>51</height>
+         <width>61</width>
+         <height>61</height>
         </size>
        </property>
        <property name="text">
@@ -52,14 +52,14 @@
       <widget class="QPushButton" name="btDoctor">
        <property name="minimumSize">
         <size>
-         <width>51</width>
-         <height>51</height>
+         <width>61</width>
+         <height>61</height>
         </size>
        </property>
        <property name="maximumSize">
         <size>
-         <width>51</width>
-         <height>51</height>
+         <width>61</width>
+         <height>61</height>
         </size>
        </property>
        <property name="text">
@@ -71,14 +71,14 @@
       <widget class="QPushButton" name="btPatient">
        <property name="minimumSize">
         <size>
-         <width>51</width>
-         <height>51</height>
+         <width>61</width>
+         <height>61</height>
         </size>
        </property>
        <property name="maximumSize">
         <size>
-         <width>51</width>
-         <height>51</height>
+         <width>61</width>
+         <height>61</height>
         </size>
        </property>
        <property name="text">
